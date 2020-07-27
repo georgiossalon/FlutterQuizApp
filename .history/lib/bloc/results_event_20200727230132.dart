@@ -1,0 +1,14 @@
+part of 'results_bloc.dart';
+
+@immutable
+abstract class ResultsEvent extends Equatable {
+  const ResultsEvent();
+
+  @override
+  List<Object> get props => [];
+}
+
+class ResultsLoaded extends ResultsEvent {}
+
+class ResultsColorChanged extends Results
+
