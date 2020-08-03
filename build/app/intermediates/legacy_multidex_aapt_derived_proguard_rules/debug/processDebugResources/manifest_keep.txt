@@ -1,2 +1,2 @@
-# Referenced at C:\Users\Salonikidis\Downloads\FlutterQuizApp\FlutterQuizApp\build\app\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:27
+# Referenced at C:\Users\Salonikidis\Desktop\FlutterQuizApp\build\app\intermediates\merged_manifests\debug\processDebugManifest\merged\AndroidManifest.xml:24
 -keep class io.flutter.app.FlutterApplication { <init>(...); }
